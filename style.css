@@ -1,0 +1,27 @@
+img {
+	width: 50%;
+	height: 700px;
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+h1 { text-align: center;
+	color: #4d2600;
+	font-family: Verdana
+
+}
+h2 {
+	text-align: center;
+	color: #4d2600;
+	font-family: Helvetica;
+}
+body {
+	background-color: #ff6666;
+	background-image: url(images/Parchment.jpg);
+}
+p {
+	size: 20px;
+	text-align: center;
+	color: #4d2600;
+}
